@@ -1,4 +1,5 @@
 # GPA Calculation Program
+# Ahmad Sher
 
 ## Initialize GPA Values
 
